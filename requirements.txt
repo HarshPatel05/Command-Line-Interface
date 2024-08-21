@@ -1,0 +1,8 @@
+click
+cdsapi
+xarray
+numpy
+pandas
+netCDF4
+google-api-python-client
+pyarrow
